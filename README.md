@@ -1,10 +1,5 @@
 ## Node.js with Postgres Example
 
-<img
-    src="https://i.imgur.com/jUeBAiH.png"
-    alt="Swagger Page of that application"
-    title="Swagger Page of that application" />
-
 ### Requirements
 
 - Node.js v8+ or Docker and Docker Compose
